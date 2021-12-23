@@ -13,6 +13,9 @@
     display: flex;
     align-items: center;
     background-color: #f47502;
+    position: absolute;
+    top: 35%;
+    left: 33%;
 }
 .identity{
     width: 50%;

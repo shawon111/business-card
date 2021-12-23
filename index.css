@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.busuness-card-container{
+    width: 100%;
+}
+.business-card{
+    width: 500px;
+    margin: auto;
+    padding: 50px;
+    box-shadow: 0px 0px 4px #9e9292;
+    display: flex;
+    align-items: center;
+    background-color: #f47502;
+}
+.identity{
+    width: 50%;
+}
+.contact-info{
+    width: 50%;
+}
+.contact-info h3{
+    color: #fff;
+    font-size: 20px;
+}
+.card-image img{
+    width: 120px;
+}
+.name h2{
+    color: #fff;
+    margin-top: 8px;
+}
+.contact-info p{
+    margin-top: 4px;
+    font-weight: 600;
+    color: #fff;
+}

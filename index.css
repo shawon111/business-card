@@ -29,6 +29,7 @@
 }
 .card-image img{
     width: 120px;
+    border-radius: 50%;
 }
 .name h2{
     color: #fff;
